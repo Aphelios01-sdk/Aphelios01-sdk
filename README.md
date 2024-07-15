@@ -12,8 +12,8 @@ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
 
 ### 📫 Terhubung dengan saya:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/tritonker)](https://twitter.com/tritonker)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/aphelios01)](https://github.com/aphelios01)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/aphelios)](https://github.com/aphelios)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aphelios01)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aphelios)
 
 ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-12-%23007EC6)
